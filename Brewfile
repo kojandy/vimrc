@@ -9,6 +9,14 @@ cask "alfred"
 cask "steam"
 cask "aegisub"
 cask "viscosity"
+cask "isyncr"
+cask "gureumkim"
+cask "google-japanese-ime"
+cask "devonthink-pro"
+cask "musicbrainz-picard"
+cask "transmission-remote-gui"
+cask "typora"
+cask "mactex"
 
 mas "Droplr", id: 498672703
 mas "KakaoTalk", id: 869223134
