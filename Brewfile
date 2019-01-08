@@ -1,3 +1,7 @@
+brew "ripgrep"
+brew "autojump"
+brew "asciinema"
+
 cask "dropbox"
 cask "workflowy"
 cask "moom"
