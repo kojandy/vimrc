@@ -1,0 +1,2 @@
+#!/bin/sh
+env LC_ALL=ja_JP.UTF-8 wine "/home/kojandy/Games/蒼の彼方のフォーリズムPerfect Edition/蒼の彼方のフォーリズムPerfect Edition.exe"
